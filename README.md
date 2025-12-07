@@ -1,5 +1,8 @@
 # the-screen-is-flipped
 
+> [!CAUTION]
+> Application is `vibe codded`. Proceed at your own risk!
+
 ## 🖤 📸 Black & White Snapshot App
 
 A simple macOS tool that takes a screenshot, turns it black & white, flips it, compresses it, and saves it to your Desktop. All in Swift, using the modern ScreenCaptureKit.
