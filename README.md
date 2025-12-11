@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Application is programmed with AI asistance. Proceed at your own peril!
 
-# the-screen-is-flipped
+# The Screen is Flipped
 
 ## 🖤 📸 Black & White Snapshot App
 
